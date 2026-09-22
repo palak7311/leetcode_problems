@@ -13,8 +13,18 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/palak7311/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0844-backspace-string-compare](https://github.com/palak7311/leetcode_problems/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/palak7311/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0844-backspace-string-compare](https://github.com/palak7311/leetcode_problems/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/palak7311/leetcode_problems/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/palak7311/leetcode_problems/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
