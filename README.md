@@ -9,4 +9,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/palak7311/leetcode_problems/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/palak7311/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/palak7311/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
