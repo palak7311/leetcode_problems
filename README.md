@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/palak7311/leetcode_problems/tree/master/0001-two-sum) |
 | [0179-largest-number](https://github.com/palak7311/leetcode_problems/tree/master/0179-largest-number) |
+| [0500-keyboard-row](https://github.com/palak7311/leetcode_problems/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/palak7311/leetcode_problems/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/palak7311/leetcode_problems/tree/master/0383-ransom-note) |
+| [0500-keyboard-row](https://github.com/palak7311/leetcode_problems/tree/master/0500-keyboard-row) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +26,7 @@
 | [0179-largest-number](https://github.com/palak7311/leetcode_problems/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/palak7311/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/palak7311/leetcode_problems/tree/master/0383-ransom-note) |
+| [0500-keyboard-row](https://github.com/palak7311/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0844-backspace-string-compare](https://github.com/palak7311/leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/palak7311/leetcode_problems/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Stack
