@@ -25,6 +25,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/palak7311/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/palak7311/leetcode_problems/tree/master/0383-ransom-note) |
 | [0844-backspace-string-compare](https://github.com/palak7311/leetcode_problems/tree/master/0844-backspace-string-compare) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/palak7311/leetcode_problems/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Stack
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/palak7311/leetcode_problems/tree/master/0383-ransom-note) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/palak7311/leetcode_problems/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Greedy
 |  |
 | ------- |
