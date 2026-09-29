@@ -50,4 +50,12 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/palak7311/leetcode_problems/tree/master/0179-largest-number) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/palak7311/leetcode_problems/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/palak7311/leetcode_problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
