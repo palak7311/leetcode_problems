@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/palak7311/leetcode_problems/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/palak7311/leetcode_problems/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/palak7311/leetcode_problems/tree/master/0179-largest-number) |
 | [0500-keyboard-row](https://github.com/palak7311/leetcode_problems/tree/master/0500-keyboard-row) |
 ## Hash Table
@@ -65,5 +66,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/palak7311/leetcode_problems/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/palak7311/leetcode_problems/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/palak7311/leetcode_problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
