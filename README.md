@@ -8,6 +8,7 @@
 | [0078-subsets](https://github.com/palak7311/leetcode_problems/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/palak7311/leetcode_problems/tree/master/0179-largest-number) |
 | [0500-keyboard-row](https://github.com/palak7311/leetcode_problems/tree/master/0500-keyboard-row) |
+| [0704-binary-search](https://github.com/palak7311/leetcode_problems/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/palak7311/leetcode_problems/tree/master/0078-subsets) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/palak7311/leetcode_problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
