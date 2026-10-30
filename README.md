@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/palak7311/leetcode_problems/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/palak7311/leetcode_problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/palak7311/leetcode_problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/palak7311/leetcode_problems/tree/master/0326-power-of-three) |
 ## Recursion
@@ -88,6 +89,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/palak7311/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/palak7311/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/palak7311/leetcode_problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/palak7311/leetcode_problems/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/palak7311/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/palak7311/leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/palak7311/leetcode_problems/tree/master/0162-find-peak-element) |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/palak7311/leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/palak7311/leetcode_problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
