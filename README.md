@@ -17,6 +17,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/palak7311/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/palak7311/leetcode_problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/palak7311/leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0941-valid-mountain-array](https://github.com/palak7311/leetcode_problems/tree/master/0941-valid-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
