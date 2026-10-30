@@ -11,6 +11,7 @@
 | [0078-subsets](https://github.com/palak7311/leetcode_problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/palak7311/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/palak7311/leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/palak7311/leetcode_problems/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/palak7311/leetcode_problems/tree/master/0179-largest-number) |
 | [0500-keyboard-row](https://github.com/palak7311/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/palak7311/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -87,6 +88,7 @@
 | [0035-search-insert-position](https://github.com/palak7311/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/palak7311/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/palak7311/leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/palak7311/leetcode_problems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/palak7311/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/palak7311/leetcode_problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
