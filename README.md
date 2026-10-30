@@ -16,6 +16,7 @@
 | [0500-keyboard-row](https://github.com/palak7311/leetcode_problems/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/palak7311/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/palak7311/leetcode_problems/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/palak7311/leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,4 +92,9 @@
 | [0162-find-peak-element](https://github.com/palak7311/leetcode_problems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/palak7311/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/palak7311/leetcode_problems/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/palak7311/leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/palak7311/leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
